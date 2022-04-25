@@ -1,5 +1,6 @@
 Feature 1 implementation
 
 Feature 2 implementation
+Adding ability to handle multiple widgits
 
 Feature 3 implementation
